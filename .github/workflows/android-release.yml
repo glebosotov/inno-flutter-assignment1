@@ -22,8 +22,8 @@ jobs:
     - run: flutter build apk
     - run: flutter build appbundle
 
-  - name: Create Github Release
-    uses: ncipollo/release-action@v1
-    with:
-      artifacts: "build/app/outputs/apk/release/*.apk,build/app/outputs/bundle/release/*.aab"
-      token: ${{ secrets.GH_TOKEN }}
+    - name: Create Github Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "build/app/outputs/apk/release/*.apk,build/app/outputs/bundle/release/*.aab"
+        token: ${{ secrets.GH_TOKEN }}
