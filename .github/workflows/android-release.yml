@@ -27,6 +27,8 @@ jobs:
       with:
         name: gitversion
         path: version.txt
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
   build:
     name: Build APK and Create release
     needs: [ version ]
