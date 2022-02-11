@@ -14,7 +14,7 @@ This project is done for Innopolis [S22] Cross-platform Mobile Development with 
 - Some animations
 
 ## Screenshots
-<img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.10.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.10" style="zoom:15%;" /><img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.39.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.39" style="zoom: 15%;" /><img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.52.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.52" style="zoom:15%;" /><img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.28.54.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.28.54" style="zoom:15%;" />
+<img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.10.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.10" width=220 height=480 /><img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.39.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.39" width=220 height=480 /><img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.52.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.23.52" width=220 height=480 /><img src="screenshots/Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.28.54.png" alt="Simulator Screen Shot - iPhone 13 Pro - 2022-02-11 at 21.28.54" width=220 height=480 />
 
 ## Details on the implementation
 - Dio for networking
