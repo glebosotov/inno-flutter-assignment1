@@ -2,6 +2,8 @@
 
 This project is done for Innopolis [S22] Cross-platform Mobile Development with Flutter elective
 
+# Check out latest [release](https://github.com/glebosotov/innopolis-flutter-assignment1/releases) to get the APK
+
 ## Features
 - **Satisfy all assignment requirements**
 - Get [Chuck Norris](api.chucknorris.io) jokes
